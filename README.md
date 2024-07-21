@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Donald Aadithiyan</h1>
-<h3 align="center">I am a student with a passion for learning and exploring new technologies</h3>
+<h3 align="center">I am a student with a passion for learning and exploring new technologies, Currently working on Flutter and Laravel, For backend I work with mySQL and firebase</h3>
+
+- 🔭 I’m currently working on **Flutter Mobile app Development and Laravel backend projecs**
+
+- 🌱 I’m currently learning **ReactJS, NodeJS**
+
+- 📫 How to reach me **donaldaadithiyan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/donald aadithiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donald aadithiyan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/donald-aadithiyan-8b4745274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donald-aadithiyan-8b4745274/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
