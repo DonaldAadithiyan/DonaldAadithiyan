@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donald Aadithiyan</h1>
 <h3 align="center">I am a student with a passion for learning and exploring new technologies</h3>
-<h5 align="center">Currently working on Flutter and Laravel, For backend I work with mySQL and firebase</h5>
+<h4 align="center">Currently working on Flutter and Laravel, For backend I work with mySQL and firebase</h4>
 
 - 🔭 I’m currently working on **Flutter Mobile app Development and Laravel backend projecs**
 
