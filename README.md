@@ -2,7 +2,9 @@
 <h3 align="center">I am a student with a passion for learning and exploring new technologies</h3>
 <h4 align="center">Currently working on Flutter and Laravel, For backend I work with mySQL and firebase</h4>
 
-- 🔭 I’m currently working on **Flutter Mobile app Development and Laravel backend projecs**
+
+
+- 🔭 I’m currently working on **Flutter Mobile app Development and Laravel backend projects**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
