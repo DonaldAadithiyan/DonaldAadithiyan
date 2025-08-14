@@ -4,9 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Flutter Mobile app Development and Laravel backend projects**
-
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🔭 I’m currently working on **Flutter Mobile app Development and NextJS web Development, Laravel backend projects**
 
 - 📫 Reach me at: **donaldaadithiyan@gmail.com**
 
